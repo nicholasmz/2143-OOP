@@ -1,8 +1,5 @@
-
 ## Assignments
 
-|  #  | Folder Link | Assignment Description |
-| :-: | ----------- | ---------------------- |
-| 0  | [Program_00_Install_and_Compile](Assignments/Program_00_Install_and_Compile/) | Program_00 — Installing and Compiling SDL2 |
-
-
+| #  | Folder Link | Assignment Description |
+|:-:|-------------|------------------------|
+| 0  | [Program_00_Install_and_Compile](./Assignments/Program_00_Install_and_Compile/) | Program_00 — Installing and Compiling SDL2 |
