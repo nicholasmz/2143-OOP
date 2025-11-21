@@ -1,4 +1,4 @@
-#include "json.hpp"
+#include <nlohmann/json.hpp>
 #include <fstream>
 #include <iostream>
 #include <vector>
@@ -37,7 +37,7 @@ void print_shape(const Shape& shape) {
         int gx = c.x - min_x;
         int gy = c.y - min_y;
         if (gy >= 0 && gy < height && gx >= 0 && gx < width) {
-            grid[gy][gx] = '#';
+            grid[gy][gx] = 'X';
         }
     }
 
